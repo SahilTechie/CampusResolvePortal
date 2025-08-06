@@ -3,11 +3,6 @@
 
 CRP is a secure and anonymous grievance redressal portal designed for college campuses. Built during the 24-hour **CODEMANIA Hackathon** at **BITS Pilani Hyderabad**, it enables students, faculty, and staff to raise issues and track their resolution without revealing identity.
 
----
-
-<p align="center">
-  <img src="./crp.png" alt="CRP Logo" width="200"/>
-</p>
 
 
 <p align="center">
