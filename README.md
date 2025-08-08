@@ -144,5 +144,5 @@ CRP is scalable and can be adapted for:
 
 For questions, suggestions, or collaboration opportunities:  
 📧 smallelw@gitam.in
-🔗 [LinkedIn – Utkarsha](www.linkedin.com/in/sahil-mallelwar-439082325)
+🔗 [LinkedIn – Sahil](www.linkedin.com/in/sahil-mallelwar-439082325)
 
